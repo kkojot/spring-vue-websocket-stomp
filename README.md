@@ -13,4 +13,5 @@ Open `spring-backend` as maven project and run `SimpleSpringWebsocketApplication
 Open `vue-frontend` and then:
 * `npm install`
 * `npm run serve`
+
 It should start at `8081` port.
